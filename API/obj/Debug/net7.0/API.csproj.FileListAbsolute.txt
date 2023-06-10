@@ -77,3 +77,6 @@ C:\Users\User\Documents\Amir\Development\React\FirstReactProject\API\obj\Debug\n
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\API\obj\Debug\net7.0\API.pdb
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
