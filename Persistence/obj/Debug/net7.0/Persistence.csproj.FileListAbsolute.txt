@@ -13,5 +13,3 @@ C:\Users\User\Documents\Amir\Development\React\FirstReactProject\Persistence\obj
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\Persistence\obj\Debug\net7.0\ref\Persistence.dll
-C:\Users\User\Documents\Amir\Development\React\FirstReactProject\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
-C:\Users\User\Documents\Amir\Development\React\FirstReactProject\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
