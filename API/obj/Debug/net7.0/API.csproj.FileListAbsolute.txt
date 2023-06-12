@@ -79,3 +79,4 @@ C:\Users\User\Documents\Amir\Development\React\FirstReactProject\API\obj\Debug\n
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\bin\Debug\net7.0\FluentValidation.dll
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Documents\Amir\Development\React\FirstReactProject\api\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs

@@ -138,7 +138,7 @@
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[11.3.0, )"
+              "version": "[11.2.2, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
